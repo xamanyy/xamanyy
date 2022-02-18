@@ -1,10 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" height="150px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" height="120px"/></a>
 
 <h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,Aman here</h1>
 <h3 align="center">I do Design and Web Development work. I enjoy learning new programming languages ​​and frameworks such as ReactJs and Java, as well as Blockchain development. I like solving coding problems on platforms like LeetCode and GFG.</h3>
 
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ More about me
 
 - 🔭 I’m currently working on **[AI Enabled Fintech B2B Invoice Manangement]**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sing40261@outlook.com**
 
-## 🚀 Languages and Tools:
+### 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -40,7 +40,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+### 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/xamanyy/github-readme-stats"><img alt="Aman Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xamanyy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -57,14 +57,8 @@
 <br/>
 <br/>
 
-## Connect with me:
+### Talk with me, I am kinda awesome:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/aman-singh-2121871aa/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=xamanyy">
-</a>
-<a href="https://github.com/xamanyy?tab=followers"><img src="https://img.shields.io/github/followers/xamanyy?label=Followers&style=social" alt="GitHub Badge"></a>
