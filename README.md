@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman</h1>
 <h3 align="center">I do Design and Web Development work. I enjoy learning new programming languages ​​and frameworks such as ReactJs and Java, as well as Blockchain development. I like solving coding problems on platforms like LeetCode and GFG.</h3>
