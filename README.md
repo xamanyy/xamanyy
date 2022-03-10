@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" height="120px"/></a>
 
 <h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,Aman here</h1>
-<h3 align="center">I do Design and Web Development work. I enjoy learning new programming languages ​​and frameworks such as ReactJs and Java, as well as Blockchain development. I like solving coding problems on platforms like LeetCode and GFG.</h3>
+<h3 align="center">Hands on Web Development and Designing, currently working with web3 tools for the automation of the designing. I enjoy learning new programming languages ​​and frameworks such as ReactJs and Java, as well as Blockchain development. I like solving coding problems on platforms like LeetCode and GFG.</h3>
 
 
 ### 🙋‍♂️ More about me
