@@ -59,5 +59,5 @@
 ### Talk with me, I am kinda awesome:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/aman-singh-2121871aa/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/amansinghdevloper/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
