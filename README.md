@@ -1,4 +1,3 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h1 align="center">Hi, I'm Aman! 👋</h1>
 <h3 align="center">  
 I’m a Data Engineer passionate about building robust and scalable pipelines for data processing, storage, and analysis. With hands-on experience in web development, ETL tools, cloud platforms, and blockchain technologies, I enjoy solving complex problems and exploring how emerging technologies like Generative AI and Retrieval-Augmented Generation (RAG) can drive innovation.
