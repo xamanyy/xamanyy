@@ -2,10 +2,10 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h1 align="center">Hi, Aman here</h1>
-<h3 align="center">Hands on Web Development and Designing, currently working with web3 tools for the automation of the designing. I enjoy learning new programming languages ​​and frameworks such as ReactJs and Java, as well as Blockchain development. I like solving coding problems on platforms like LeetCode and GFG.</h3>
-
-Hi, I'm Aman! 👋  
+<h3 align="center">Hi, I'm Aman! 👋  
 I’m a **Data Engineer** passionate about building robust and scalable pipelines for data processing, storage, and analysis. With hands-on experience in **web development**, **ETL tools**, **cloud platforms**, and **blockchain technologies**, I enjoy solving complex problems and exploring how emerging technologies like **Generative AI** and **Retrieval-Augmented Generation (RAG)** can drive innovation.
+</h3>
+
 
 ---
 
