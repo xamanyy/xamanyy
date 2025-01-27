@@ -4,48 +4,53 @@
 <h1 align="center">Hi, Aman here</h1>
 <h3 align="center">Hands on Web Development and Designing, currently working with web3 tools for the automation of the designing. I enjoy learning new programming languages ​​and frameworks such as ReactJs and Java, as well as Blockchain development. I like solving coding problems on platforms like LeetCode and GFG.</h3>
 
+Hi, I'm Aman! 👋  
+I’m a **Data Engineer** passionate about building robust and scalable pipelines for data processing, storage, and analysis. With hands-on experience in **web development**, **ETL tools**, **cloud platforms**, and **blockchain technologies**, I enjoy solving complex problems and exploring how emerging technologies like **Generative AI** and **Retrieval-Augmented Generation (RAG)** can drive innovation.
 
-Hi, Aman here!
-I’m a Data Engineer passionate about building robust and scalable pipelines for data processing, storage, and analysis. With hands-on experience in web development, ETL tools, cloud platforms, and blockchain technologies, I enjoy solving complex problems and exploring how emerging tech like Generative AI and RAG (Retrieval-Augmented Generation) can drive innovation.
+---
 
-🙋‍♂️ More About Me
-🔭 Current Projects:
+### 🙋‍♂️ More About Me
 
-Asteroid Trajectory Analysis: Leveraging historical and real-time data to gain insights into asteroid movements using AWS, Apache Airflow, PySpark, and Power BI.
-Spiritual AI Project: A unique initiative focusing on ancient texts like the Ramayana and Mahabharata, incorporating graph databases and vector search.
-🌱 Currently Learning:
+#### 🔭 **Current Projects**:
+- **Asteroid Trajectory Analysis**: Leveraging historical and real-time data to gain insights into asteroid movements using **AWS**, **Apache Airflow**, **PySpark**, and **Power BI**.
+- **Spiritual AI Project**: A unique initiative focusing on ancient texts like the **Ramayana** and **Mahabharata**, incorporating **graph databases** and **vector search**.
 
-Advanced Data Structures and Algorithms
-Graph Databases and Machine Learning for Predictive Analytics
-Ethereum Smart Contracts and Blockchain
-👯 Open to Collaborate On:
+#### 🌱 **Currently Learning**:
+- Advanced **Data Structures and Algorithms**
+- **Graph Databases** and **Machine Learning** for Predictive Analytics
+- **Ethereum Smart Contracts** and **Blockchain**
 
-OpenSource projects in Data Engineering or Web3
-Building automation tools or scalable ETL workflows
-📫 How to Reach Me:
+#### 👯 **Open to Collaborate On**:
+- Open Source projects in **Data Engineering** or **Web3**
+- Building **automation tools** or scalable **ETL workflows**
 
-Email: sing40261@outlook.com
-🚀 My Tech Stack
+#### 📫 **How to Reach Me**:
+- **Email**: [sing40261@outlook.com](mailto:sing40261@outlook.com)
 
-1. Data Engineering:
+---
 
-ETL Tools: Apache Airflow, Informatica PowerCenter, Azure Data Factory
-Big Data: Apache Kafka, PySpark
-Cloud Platforms: AWS (S3, Lambda, Athena, Glue)
-2. Web Development & Design:
+### 🚀 My Tech Stack
 
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Java, Python, Flask
-Web3 Tools: Blockchain Development and Ethereum Smart Contracts
-3. Databases & Querying:
+#### 1. **Data Engineering**:
+- **ETL Tools**: Apache Airflow, Informatica PowerCenter, Azure Data Factory
+- **Big Data**: Apache Kafka, PySpark
+- **Cloud Platforms**: AWS (S3, Lambda, Athena, Glue)
 
-SQL, MySQL, Postgres, Oracle
-4. Visualization:
+#### 2. **Web Development & Design**:
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Backend**: Java, Python, Flask
+- **Web3 Tools**: Blockchain Development, Ethereum Smart Contracts
 
-Power BI
-5. Automation & API Testing:
+#### 3. **Databases & Querying**:
+- **SQL**, **MySQL**, **Postgres**, **Oracle**
 
-Postman
+#### 4. **Visualization**:
+- **Power BI**
+
+#### 5. **Automation & API Testing**:
+- **Postman**
+
+---
 
 ### 📊 My Github Stats
 
@@ -54,7 +59,6 @@ Postman
   <a href="https://github.com/xamanyy/github-readme-stats"><img alt="Aman Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamanyy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
@@ -67,5 +71,5 @@ Postman
 ### Talk with me, I am kinda awesome:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/amansinghdevloper/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/a-man/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
