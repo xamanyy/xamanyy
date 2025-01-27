@@ -1,9 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" height="120px"/></a>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h1 align="center">Hi, Aman here</h1>
-<h3 align="center">Hi, I'm Aman! 👋  
-I’m a **Data Engineer** passionate about building robust and scalable pipelines for data processing, storage, and analysis. With hands-on experience in **web development**, **ETL tools**, **cloud platforms**, and **blockchain technologies**, I enjoy solving complex problems and exploring how emerging technologies like **Generative AI** and **Retrieval-Augmented Generation (RAG)** can drive innovation.
+<h1 align="center">Hi, I'm Aman! 👋</h1>
+<h3 align="center">  
+I’m a Data Engineer passionate about building robust and scalable pipelines for data processing, storage, and analysis. With hands-on experience in web development, ETL tools, cloud platforms, and blockchain technologies, I enjoy solving complex problems and exploring how emerging technologies like Generative AI and Retrieval-Augmented Generation (RAG) can drive innovation.
 </h3>
 
 
