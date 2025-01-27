@@ -68,7 +68,7 @@ I’m a Data Engineer passionate about building robust and scalable pipelines fo
 <br/>
 <br/>
 
-### Talk with me, I am kinda awesome:
+### Talk with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/a-man/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
