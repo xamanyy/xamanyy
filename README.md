@@ -11,7 +11,7 @@ I’m a Data Engineer passionate about building robust and scalable pipelines fo
 
 #### 🔭 **Current Projects**:
 - **Asteroid Trajectory Analysis**: Leveraging historical and real-time data to gain insights into asteroid movements using **AWS**, **Apache Airflow**, **PySpark**, and **Power BI**.
-- **Spiritual AI Project**: A unique initiative focusing on ancient texts like the **Ramayana** and **Mahabharata**, incorporating **graph databases** and **vector search**.
+- **Spiritual AI Project**: An innovative initiative that harnesses LLMs (Large Language Models) and Retrieval-Augmented Generation (RAG) to explore ancient texts like the Ramayana and Mahabharata. By integrating graph databases and vector search, it enables deeper understanding and personalized spiritual insights through advanced AI-driven interactions.
 
 #### 🌱 **Currently Learning**:
 - Advanced **Data Structures and Algorithms**
